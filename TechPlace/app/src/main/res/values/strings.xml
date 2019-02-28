@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TechPlace</string>
+    <string name="username_text">Username or Email</string>
+    <string name="password_text">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="register_text">Don\'t have an account, yet?</string>
+    <string name="register_button">Sign Up</string>
+
+    <string name="email_request">Email:</string>
+    <string name="repeat_email_request">Repeat Email:</string>
+    <string name="username_request">Username:</string>
+    <string name="password_request">Password:</string>
+    <string name="repeat_password_request">Repeat Password:</string>
+
+    <string name="username_taken">This username is taken</string>
+    <string name="username_invalid">This username is not valid (Must be at least 3 characters long and valid characters are letters, numbers, points, dashes and underscores)</string>
+    <string name="email_taken">This email is already associated with an account</string>
+    <string name="email_invalid">This is not a valid email</string>
+    <string name="emails_different">The emails do not match</string>
+    <string name="password_invalid">This password is not valid. (Must be at least 3 characters long and it must include at least one digit, at least one lower alpha character and one upper alpha character, at least one character within a set of special chars (@#%$^, etc), without spaces, tab, etc.</string>
+    <string name="passwords_different">The passwords do not match</string>
+
+
+    <string name="write_post">New Post:</string>
+    <string name="write_post_button">Post</string>
+    <string name="find_posts">Find Posts:</string>
+    <string name="search_button">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

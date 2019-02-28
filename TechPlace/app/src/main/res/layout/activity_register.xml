@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="project03.csc214.techplace.Views.RegisterActivity">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <!-- Username Error Messages -->
+
+        <TextView
+            android:text="@string/username_taken"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/username_taken_text"/>
+
+        <TextView
+            android:text="@string/username_invalid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/username_invalid_text"/>
+
+        <!-- Username Error Messages /End -->
+
+        <TextView
+            android:text="@string/username_request"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/username_text"/>
+
+        <EditText
+            android:id="@+id/username_editText"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:inputType="text"/>
+
+
+        <!-- Emails Error Messages -->
+
+        <TextView
+            android:text="@string/emails_different"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/emails_different_text"/>
+
+        <TextView
+            android:text="@string/email_invalid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/email_invalid_text"/>
+
+
+        <TextView
+            android:text="@string/email_taken"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/email_taken_text"/>
+
+        <!-- Emails Error Messages /End -->
+
+
+        <TextView
+            android:text="@string/email_request"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/email_request"/>
+
+        <EditText
+            android:id="@+id/email_editText"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:inputType="text"/>
+
+        <TextView
+            android:text="@string/repeat_email_request"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/repeat_email_text"/>
+
+        <EditText
+            android:id="@+id/repeat_email_editText"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:inputType="text"/>
+
+        <!-- Password Error Messages -->
+        <TextView
+            android:text="@string/password_invalid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/password_invalid_text"/>
+
+        <TextView
+            android:text="@string/passwords_different"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/passwords_different_text"/>
+
+        <!-- Password Error Messages /End -->
+
+        <TextView
+            android:text="@string/password_request"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/password_request"/>
+
+        <EditText
+            android:id="@+id/password_editText"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:inputType="textPassword"/>
+
+        <TextView
+            android:text="@string/repeat_password_request"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/repeat_password_request"/>
+
+        <EditText
+            android:id="@+id/repeat_password_editText"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:inputType="textPassword"/>
+
+        <Button
+            android:id="@+id/register_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/register_button"
+            android:onClick="onRegisterButtonClick"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

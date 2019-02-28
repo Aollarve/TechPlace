@@ -1,0 +1,752 @@
+-01 23:42:35.762 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.778 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.794 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.800 7010-7010/project03.csc214.techplace I/Choreographer: Skipped 42 frames!  The application may be doing too much work on its main thread.
+05-01 23:42:35.810 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.824 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.840 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.865 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.868 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.884 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.926 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.926 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84119308 , only wrote 84119040
+05-01 23:42:35.927 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84119082 , only wrote 84119040
+05-01 23:42:35.927 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.944 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84119836 , only wrote 84119760
+05-01 23:42:35.944 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.944 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.964 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:35.980 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.006 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.012 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.037 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.046 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.057 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.079 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.085 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.100 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.116 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.130 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.145 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.162 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.172 7010-7010/project03.csc214.techplace I/ViewConfigCompat: Could not find method getScaledScrollFactor() on ViewConfiguration
+05-01 23:42:36.175 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.189 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.206 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.220 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.235 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.251 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.265 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.280 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.295 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.309 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.324 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.339 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.354 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.370 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.386 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.400 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.415 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.433 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.445 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.460 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.475 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.490 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.505 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.521 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.535 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.550 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.566 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.580 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.609 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.611 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.627 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.642 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.657 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.679 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.692 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.718 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.719 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.758 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84158831 , only wrote 84157920
+05-01 23:42:36.758 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84157952 , only wrote 84157920
+05-01 23:42:36.758 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.773 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.773 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.792 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.811 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.826 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.828 1711-1740/system_process W/art: Long monitor contention with owner Binder:1711_E (5116) at int com.android.server.wm.WindowManagerService.relayoutWindow(com.android.server.wm.Session, android.view.IWindow, int, android.view.WindowManager$LayoutParams, int, int, int, int, android.graphics.Rect, android.graphics.Rect, android.graphics.Rect, android.graphics.Rect, android.graphics.Rect, android.graphics.Rect, android.graphics.Rect, android.content.res.Configuration, android.view.Surface)(WindowManagerService.java:2857) waiters=0 in void com.android.server.wm.WindowAnimator$1.doFrame(long) for 159ms
+05-01 23:42:36.843 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.855 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.864 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.894 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.894 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.910 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.937 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.955 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.959 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:36.983 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.002 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.013 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.060 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.061 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84172431 , only wrote 84171600
+05-01 23:42:37.099 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84171609 , only wrote 84171600
+05-01 23:42:37.099 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.100 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84173457 , only wrote 84172320
+05-01 23:42:37.100 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84172342 , only wrote 84172320
+05-01 23:42:37.100 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.121 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84173318 , only wrote 84173040
+05-01 23:42:37.121 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.121 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.140 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.156 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.170 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.187 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.203 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.218 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.232 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.249 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.269 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.282 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.291 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.309 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.323 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.335 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.350 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.365 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.383 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.397 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.414 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.434 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.441 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.460 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.474 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.485 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.501 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.520 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.534 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.557 7010-7014/project03.csc214.techplace I/art: Do partial code cache collection, code=24KB, data=31KB
+05-01 23:42:37.558 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.560 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.575 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.575 7010-7014/project03.csc214.techplace I/art: After code cache collection, code=24KB, data=31KB
+05-01 23:42:37.575 7010-7014/project03.csc214.techplace I/art: Increasing code cache capacity to 128KB
+05-01 23:42:37.591 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.605 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.614 7010-7010/project03.csc214.techplace I/Choreographer: Skipped 108 frames!  The application may be doing too much work on its main thread.
+05-01 23:42:37.621 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.636 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.643 7010-7041/project03.csc214.techplace D/EGL_emulation: eglMakeCurrent: 0x9c47c6a0: ver 2 0 (tinfo 0x8ed9ca30)
+05-01 23:42:37.655 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.772 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.773 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84204326 , only wrote 84200400
+05-01 23:42:37.773 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84200415 , only wrote 84200400
+05-01 23:42:37.773 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.792 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84201329 , only wrote 84201120
+05-01 23:42:37.792 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.792 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.809 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.826 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.840 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.855 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.869 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.884 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.899 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.922 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.929 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.945 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.960 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.975 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:37.992 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:38.004 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:38.019 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:38.039 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:38.055 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:38.066 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:38.086 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:38.112 1362-1405/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84230755 , only wrote 84216240
+05-01 23:42:38.194 1711-1740/system_process I/ActivityManager: Displayed project03.csc214.techplace/Views.FeedActivity: +3s164ms
+05-01 23:42:38.214 7010-7041/project03.csc214.techplace D/EGL_emulation: eglMakeCurrent: 0x9c47c6a0: ver 2 0 (tinfo 0x8ed9ca30)
+05-01 23:42:38.310 7010-7010/project03.csc214.techplace I/Choreographer: Skipped 41 frames!  The application may be doing too much work on its main thread.
+05-01 23:42:38.344 7010-7041/project03.csc214.techplace D/EGL_emulation: eglMakeCurrent: 0x9c47c6a0: ver 2 0 (tinfo 0x8ed9ca30)
+05-01 23:42:38.361 1832-1832/com.android.inputmethod.latin I/LatinIME: Starting input. Cursor position = 0,0
+05-01 23:42:38.482 7010-7041/project03.csc214.techplace D/EGL_emulation: eglMakeCurrent: 0x9c47c6a0: ver 2 0 (tinfo 0x8ed9ca30)
+05-01 23:42:38.510 7010-7010/project03.csc214.techplace W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+05-01 23:42:38.560 7010-7041/project03.csc214.techplace D/EGL_emulation: eglMakeCurrent: 0x9c47c6a0: ver 2 0 (tinfo 0x8ed9ca30)
+05-01 23:42:38.746 7010-7041/project03.csc214.techplace D/EGL_emulation: eglMakeCurrent: 0x9c47c6a0: ver 2 0 (tinfo 0x8ed9ca30)
+05-01 23:42:38.890 1832-1832/com.android.inputmethod.latin I/Choreographer: Skipped 34 frames!  The application may be doing too much work on its main thread.
+05-01 23:42:40.584 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84216621 , only wrote 84216240
+05-01 23:42:40.584 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.584 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.584 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.608 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.615 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.658 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.658 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.674 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.706 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.706 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.722 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.738 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.754 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.768 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.783 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.814 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.814 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.846 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84228610 , only wrote 84228480
+05-01 23:42:40.847 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.848 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.897 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84231135 , only wrote 84229920
+05-01 23:42:40.897 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.897 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.913 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.930 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.945 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.950 1832-1832/com.android.inputmethod.latin W/InputMethodService: Window size has been changed. This may cause jankiness of resizing window: -1 -> -2
+05-01 23:42:40.968 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.979 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.992 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:40.993 1832-3946/com.android.inputmethod.latin D/EGL_emulation: eglMakeCurrent: 0xabb845a0: ver 2 0 (tinfo 0xabb83ad0)
+05-01 23:42:41.006 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.022 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.035 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.052 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.066 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.078 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.098 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.109 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.122 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.138 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.154 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.180 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.184 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.198 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.218 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.232 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.245 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.263 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.274 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.292 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.306 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.322 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.339 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.349 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.370 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.385 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.396 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.409 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.428 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.444 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.455 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.468 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.493 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.498 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.514 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.529 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.544 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.559 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.575 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.588 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.604 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.619 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.633 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.649 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.664 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.678 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.695 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.708 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.723 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.738 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.754 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.769 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.783 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.799 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.814 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.828 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.845 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.859 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.876 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.898 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.906 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.919 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.933 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.949 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.963 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.980 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:41.993 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.009 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.024 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.039 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.053 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.071 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.083 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.099 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.114 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.128 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.143 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.159 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.174 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.189 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.203 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.220 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.234 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.249 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.264 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.279 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.295 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.310 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.324 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.340 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.353 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.369 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.383 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.399 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.413 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.429 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.443 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.459 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.474 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.491 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.504 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.518 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.533 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.550 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.564 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.578 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.593 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.609 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.625 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.638 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.653 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.669 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.684 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.698 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.713 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.730 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.743 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.758 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.774 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.788 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.803 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.819 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.834 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.848 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.864 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.880 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.893 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.908 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.923 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.939 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.954 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.970 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.984 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:42.998 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.016 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.029 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.044 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.059 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.073 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.091 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.104 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.119 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.134 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.148 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.165 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.179 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.194 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.208 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.224 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.239 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.254 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.270 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.284 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.298 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.314 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.328 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.344 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.359 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.374 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.389 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.404 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.420 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.434 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.449 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.465 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.479 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.493 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.511 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.527 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.539 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.554 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.570 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.584 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.599 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.613 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.628 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.643 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.658 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.674 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.691 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.704 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.718 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.733 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.749 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.765 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.781 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.794 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.809 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.824 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.840 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.855 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.870 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.883 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.900 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:43.932 1362-1405/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84519867 , only wrote 84375360
+05-01 23:42:44.931 1362-1401/? E/audio_hw_generic: pcm_write failed cannot write stream data: I/O error
+05-01 23:42:46.468 1711-2144/system_process I/ActivityManager: START u0 {cmp=project03.csc214.techplace/Views.ProfileActivity (has extras)} from uid 10093 on display 0
+05-01 23:42:46.481 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84375539 , only wrote 84375360
+05-01 23:42:46.481 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.483 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.501 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.574 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.589 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.603 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.619 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.639 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.649 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.663 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.682 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.694 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.709 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.725 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.740 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.754 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.769 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.787 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.799 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.819 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.829 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.841 7010-7014/project03.csc214.techplace I/art: Do partial code cache collection, code=61KB, data=61KB
+05-01 23:42:46.844 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.844 7010-7014/project03.csc214.techplace I/art: After code cache collection, code=61KB, data=61KB
+05-01 23:42:46.844 7010-7014/project03.csc214.techplace I/art: Increasing code cache capacity to 256KB
+05-01 23:42:46.861 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.878 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.894 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.904 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.920 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.939 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.954 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.966 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.978 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:46.993 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.009 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.031 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.052 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.053 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.069 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.114 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.114 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.133 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.152 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.168 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.184 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.199 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.224 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.224 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.240 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.260 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.271 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.288 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.301 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.303 7010-7041/project03.csc214.techplace D/EGL_emulation: eglMakeCurrent: 0x9c47c6a0: ver 2 0 (tinfo 0x8ed9ca30)
+05-01 23:42:47.316 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.331 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.346 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.364 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.378 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.392 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.411 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.429 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.436 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.453 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.465 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.467 7010-7010/project03.csc214.techplace W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+05-01 23:42:47.482 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.495 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.519 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.529 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.543 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.572 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.572 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.575 1711-1740/system_process I/ActivityManager: Displayed project03.csc214.techplace/Views.ProfileActivity: +1s58ms
+05-01 23:42:47.588 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.603 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.618 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.634 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.650 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.666 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.678 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.694 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.709 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.723 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.739 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.756 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.769 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.785 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.799 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.813 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.828 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.843 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.863 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.875 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.888 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.904 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.918 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.934 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.949 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.964 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.979 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:47.994 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.009 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.027 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.052 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.054 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.089 1362-1404/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84452432 , only wrote 84451680
+05-01 23:42:48.089 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.089 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.106 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.121 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.148 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.151 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.167 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.182 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.196 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.212 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.226 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.243 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.257 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.271 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.287 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.303 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.316 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.332 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.347 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.362 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.376 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.391 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.406 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.421 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.436 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.451 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.466 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.482 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.496 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.511 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.529 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.542 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.556 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.572 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.587 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.602 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.617 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.632 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.661 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.662 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.677 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.693 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.709 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.726 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.738 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.754 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.768 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.786 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.815 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.815 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.833 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.847 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.862 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.877 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.891 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.906 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.921 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.938 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.952 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.967 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.981 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:48.997 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.012 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.026 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.044 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.056 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.071 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.086 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.102 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.117 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.131 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.146 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.162 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.177 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.192 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.208 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.222 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.236 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.251 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.266 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.282 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.296 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.311 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.327 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.343 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.357 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.372 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.386 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.401 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.416 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.431 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.447 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.461 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.476 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.491 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.506 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.521 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.536 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.551 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.566 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.583 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.596 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.611 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.627 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.641 1362-1404/? W/audio_hw_generic: Hardware backing HAL too slow, could only write 0 of 720 frames
+05-01 23:42:49.663 1362-1405/? W/audio_hw_generic: Not supplying enough data to HAL, expected position 84601954 , only wrote 84527280
+05-01 23:42:56.481 1362-1401/? E/audio_hw_generic: pcm_write failed cannot write stream data: I/O error
+05-01 23:43:00.012 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:43:00.027 20081-20116/com.android.systemui D/EGL_emulation: eglMakeCurrent: 0xabb848a0: ver 2 0 (tinfo 0xabb837e0)
+05-01 23:43:03.903 2347-2347/com.google.android.googlequicksearchbox:search I/GrammarCompilationSvcCt: #startService for null, APP_NAMES.
+05-01 23:43:03.910 2347-7049/com.google.android.googlequicksearchbox:search I/ContextCompilationHandl: Compiling grammar for: en-US, type=APP_NAMES
+05-01 23:43:03.912 2347-7049/com.google.android.googlequicksearchbox:search I/ContextCompilationHandl: No grammar compilation resources for VOICE_ACTIONS_COMPILER, aborting. 
+05-01 23:43:03.915 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:44:00.020 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:45:00.008 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:46:00.008 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:46:44.152 1711-1801/system_process D/WifiNative-HAL: Failing getSupportedFeatureset because HAL isn't started
+05-01 23:46:44.154 1711-1732/system_process E/BluetoothAdapter: Bluetooth binder is null
+05-01 23:46:44.155 1711-1732/system_process E/BatteryStatsService: no controller energy info supplied
+05-01 23:46:44.166 1711-1732/system_process E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state (No such file or directory)
+05-01 23:46:44.166 1711-1732/system_process E/KernelUidCpuTimeReader: Failed to read uid_cputime: /proc/uid_cputime/show_uid_stat (No such file or directory)
+05-01 23:46:44.167 1711-1732/system_process E/BatteryStatsService: modem info is invalid: ModemActivityInfo{ mTimestamp=0 mSleepTimeMs=0 mIdleTimeMs=0 mTxTimeMs[]=[0, 0, 0, 0, 0] mRxTimeMs=0 mEnergyUsed=0}
+05-01 23:47:00.014 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:48:00.006 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:49:00.007 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:50:00.007 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:50:05.357 2656-7053/com.google.android.gms I/EventLogChimeraService: Aggregate from 1525230636052 (log), 1525230636052 (data)
+05-01 23:51:00.022 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:52:00.017 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:52:36.766 2153-2164/com.google.android.gms.persistent I/art: Background sticky concurrent mark sweep GC freed 48274(2MB) AllocSpace objects, 3(60KB) LOS objects, 24% free, 10MB/14MB, paused 1.221ms total 110.297ms
+05-01 23:52:41.860 2153-7058/com.google.android.gms.persistent W/Conscrypt: Could not set socket write timeout:
+05-01 23:52:41.861 2153-7058/com.google.android.gms.persistent W/Conscrypt:    java.lang.reflect.Method.invoke(Native Method)
+05-01 23:52:41.861 2153-7058/com.google.android.gms.persistent W/Conscrypt:    com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@11947470:13)
+05-01 23:52:41.929 2153-7058/com.google.android.gms.persistent W/Conscrypt: Could not set socket write timeout:
+05-01 23:52:41.929 2153-7058/com.google.android.gms.persistent W/Conscrypt:    java.lang.reflect.Method.invoke(Native Method)
+05-01 23:52:41.929 2153-7058/com.google.android.gms.persistent W/Conscrypt:    com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@11947470:13)
+05-01 23:52:42.113 2153-7058/com.google.android.gms.persistent W/Conscrypt: Could not set socket write timeout:
+05-01 23:52:42.113 2153-7058/com.google.android.gms.persistent W/Conscrypt:    java.lang.reflect.Method.invoke(Native Method)
+05-01 23:52:42.113 2153-7058/com.google.android.gms.persistent W/Conscrypt:    com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@11947470:13)
+05-01 23:52:42.129 2153-7058/com.google.android.gms.persistent W/Conscrypt: Could not set socket write timeout:
+05-01 23:52:42.129 2153-7058/com.google.android.gms.persistent W/Conscrypt:    java.lang.reflect.Method.invoke(Native Method)
+05-01 23:52:42.129 2153-7058/com.google.android.gms.persistent W/Conscrypt:    com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@11947470:13)
+05-01 23:52:42.901 7062-7062/? D/AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+05-01 23:52:42.904 7062-7062/? D/AndroidRuntime: CheckJNI is ON
+05-01 23:52:42.972 7062-7062/? W/art: Unexpected CPU variant for X86 using defaults: x86
+05-01 23:52:42.977 7062-7062/? D/ICU: No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+05-01 23:52:42.995 7062-7062/? E/memtrack: Couldn't load memtrack module (No such file or directory)
+05-01 23:52:42.995 7062-7062/? E/android.os.Debug: failed to load memtrack module: -2
+05-01 23:52:42.997 7062-7062/? I/Radio-JNI: register_android_hardware_Radio DONE
+05-01 23:52:43.006 7062-7062/? D/AndroidRuntime: Calling main entry com.android.commands.am.Am
+05-01 23:52:43.011 1711-2142/system_process I/ActivityManager: Force stopping project03.csc214.techplace appid=10093 user=0: from pid 7062
+05-01 23:52:43.011 1711-2142/system_process I/ActivityManager: Killing 7010:project03.csc214.techplace/u0a93 (adj 0): stop project03.csc214.techplace
+05-01 23:52:43.012 1711-2142/system_process D/ActivityManager: cleanUpApplicationRecord -- 7010
+05-01 23:52:43.017 1711-2142/system_process W/ActivityManager: Force removing ActivityRecord{dbf0bb9 u0 project03.csc214.techplace/Views.ProfileActivity t518}: app died, no saved state
+05-01 23:52:43.021 1711-2142/system_process E/JavaBinder: !!! FAILED BINDER TRANSACTION !!!  (parcel size = 56)
+05-01 23:52:43.030 1711-1740/system_process E/JavaBinder: !!! FAILED BINDER TRANSACTION !!!  (parcel size = 60)
+05-01 23:52:43.046 1711-2142/system_process I/ActivityManager: Start proc 7072:project03.csc214.techplace/u0a93 for activity project03.csc214.techplace/Views.FeedActivity
+05-01 23:52:43.051 1711-2142/system_process E/JavaBinder: !!! FAILED BINDER TRANSACTION !!!  (parcel size = 56)
+05-01 23:52:43.053 1711-2142/system_process I/ActivityManager:   Force finishing activity ActivityRecord{46470a8 u0 project03.csc214.techplace/Views.MainActivity t518}
+05-01 23:52:43.055 7072-7072/? I/art: Not late-enabling -Xcheck:jni (already on)
+05-01 23:52:43.061 7072-7072/? W/art: Unexpected CPU variant for X86 using defaults: x86
+05-01 23:52:43.063 1711-2144/system_process D/GraphicsStats: Buffer count: 9
+05-01 23:52:43.063 1711-1790/system_process W/InputDispatcher: channel 'a514eaa project03.csc214.techplace/Views.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+05-01 23:52:43.063 1711-1790/system_process E/InputDispatcher: channel 'a514eaa project03.csc214.techplace/Views.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+05-01 23:52:43.063 1711-2246/system_process I/WindowManager: WIN DEATH: Window{53b2d81 u0 project03.csc214.techplace/Views.FeedActivity}
+05-01 23:52:43.063 1711-1790/system_process W/InputDispatcher: channel '53b2d81 project03.csc214.techplace/Views.FeedActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+05-01 23:52:43.063 1711-1790/system_process E/InputDispatcher: channel '53b2d81 project03.csc214.techplace/Views.FeedActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+05-01 23:52:43.063 1711-2246/system_process W/InputDispatcher: Attempted to unregister already unregistered input channel '53b2d81 project03.csc214.techplace/Views.FeedActivity (server)'
+05-01 23:52:43.079 1711-2144/system_process I/WindowManager: WIN DEATH: Window{a514eaa u0 project03.csc214.techplace/Views.MainActivity}
+05-01 23:52:43.079 1711-2144/system_process W/InputDispatcher: Attempted to unregister already unregistered input channel 'a514eaa project03.csc214.techplace/Views.MainActivity (server)'
+05-01 23:52:43.082 1711-2142/system_process I/ActivityManager:   Force finishing activity ActivityRecord{b683605 u0 project03.csc214.techplace/Views.FeedActivity t518}
+05-01 23:52:43.113 1978-1978/com.android.phone D/CarrierSvcBindHelper: No carrier app for: 0
+05-01 23:52:43.141 7062-7062/? D/AndroidRuntime: Shutting down VM
+05-01 23:52:43.220 7072-7079/project03.csc214.techplace I/art: System.exit called, status: 1
+05-01 23:52:43.221 7072-7079/project03.csc214.techplace I/AndroidRuntime: VM exiting with result code 1, cleanup skipped.
+05-01 23:52:43.250 18172-7087/com.android.settings D/Index: Indexing locale 'en_US' took 116 millis
+05-01 23:52:43.415 1711-2147/system_process I/ActivityManager: Process project03.csc214.techplace (pid 7072) has died
+05-01 23:52:43.415 1711-2147/system_process D/ActivityManager: cleanUpApplicationRecord -- 7072
+05-01 23:52:43.439 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:52:43.446 1361-1361/? I/Zygote: Process 7072 exited cleanly (1)
+05-01 23:52:43.764 7088-7088/? D/AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+05-01 23:52:43.767 7088-7088/? D/AndroidRuntime: CheckJNI is ON
+05-01 23:52:43.784 18172-18172/com.android.settings I/Choreographer: Skipped 39 frames!  The application may be doing too much work on its main thread.
+05-01 23:52:43.796 18172-18204/com.android.settings I/OpenGLRenderer: Initialized EGL, version 1.4
+05-01 23:52:43.796 18172-18204/com.android.settings D/OpenGLRenderer: Swap behavior 1
+05-01 23:52:43.796 18172-18204/com.android.settings W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+05-01 23:52:43.796 18172-18204/com.android.settings D/OpenGLRenderer: Swap behavior 0
+05-01 23:52:43.829 18172-18204/com.android.settings D/EGL_emulation: eglCreateContext: 0xabb84420: maj 2 min 0 rcv 2
+05-01 23:52:43.901 7088-7088/? W/art: Unexpected CPU variant for X86 using defaults: x86
+05-01 23:52:43.908 18172-18204/com.android.settings D/EGL_emulation: eglMakeCurrent: 0xabb84420: ver 2 0 (tinfo 0xabb83d60)
+05-01 23:52:43.913 7088-7088/? D/ICU: No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+05-01 23:52:43.956 18172-18204/com.android.settings D/EGL_emulation: eglMakeCurrent: 0xabb84420: ver 2 0 (tinfo 0xabb83d60)
+05-01 23:52:43.970 7088-7088/? E/memtrack: Couldn't load memtrack module (No such file or directory)
+05-01 23:52:43.970 7088-7088/? E/android.os.Debug: failed to load memtrack module: -2
+05-01 23:52:43.972 7088-7088/? I/Radio-JNI: register_android_hardware_Radio DONE
+05-01 23:52:43.985 7088-7088/? D/AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+05-01 23:52:43.995 7088-7096/? W/MessageQueue: Handler (android.os.Handler) {b1c49c1} sending message to a Handler on a dead thread
+                                               java.lang.IllegalStateException: Handler (android.os.Handler) {b1c49c1} sending message to a Handler on a dead thread
+                                                   at android.os.MessageQueue.enqueueMessage(MessageQueue.java:543)
+                                                   at android.os.Handler.enqueueMessage(Handler.java:643)
+                                                   at android.os.Handler.sendMessageAtTime(Handler.java:612)
+                                                   at android.os.Handler.sendMessageDelayed(Handler.java:582)
+                                                   at android.os.Handler.post(Handler.java:338)
+                                                   at android.os.ResultReceiver$MyResultReceiver.send(ResultReceiver.java:57)
+                                                   at com.android.internal.os.IResultReceiver$Stub.onTransact(IResultReceiver.java:58)
+                                                   at android.os.Binder.execTransact(Binder.java:565)
+05-01 23:52:43.996 7088-7088/? I/art: System.exit called, status: 0
+05-01 23:52:43.997 7088-7088/? I/AndroidRuntime: VM exiting with result code 0.
+05-01 23:52:44.519 1711-1740/system_process W/WindowManager: Failed looking up window
+                                                             java.lang.IllegalArgumentException: Requested window android.view.ViewRootImpl$W@efed4ed does not exist
+                                                                 at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:9422)
+                                                                 at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:9413)
+                                                                 at com.android.server.wm.WindowManagerService.removeWindow(WindowManagerService.java:2393)
+                                                                 at com.android.server.wm.Session.remove(Session.java:202)
+                                                                 at android.view.ViewRootImpl.dispatchDetachedFromWindow(ViewRootImpl.java:3290)
+                                                                 at android.view.ViewRootImpl.doDie(ViewRootImpl.java:5917)
+                                                                 at android.view.ViewRootImpl$ViewRootHandler.handleMessage(ViewRootImpl.java:3626)
+                                                                 at android.os.Handler.dispatchMessage(Handler.java:102)
+                                                                 at android.os.Looper.loop(Looper.java:154)
+                                                                 at android.os.HandlerThread.run(HandlerThread.java:61)
+                                                                 at com.android.server.ServiceThread.run(ServiceThread.java:46)
+05-01 23:52:44.910 7107-7107/? D/AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+05-01 23:52:44.912 7107-7107/? D/AndroidRuntime: CheckJNI is ON
+05-01 23:52:45.012 7107-7107/? W/art: Unexpected CPU variant for X86 using defaults: x86
+05-01 23:52:45.019 7107-7107/? D/ICU: No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+05-01 23:52:45.045 7107-7107/? E/memtrack: Couldn't load memtrack module (No such file or directory)
+05-01 23:52:45.045 7107-7107/? E/android.os.Debug: failed to load memtrack module: -2
+05-01 23:52:45.048 7107-7107/? I/Radio-JNI: register_android_hardware_Radio DONE
+05-01 23:52:45.065 7107-7107/? D/AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+05-01 23:52:45.082 7107-7107/? I/art: System.exit called, status: 0
+05-01 23:52:45.082 7107-7107/? I/AndroidRuntime: VM exiting with result code 0.
+05-01 23:53:00.009 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:54:00.005 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:54:00.023 1711-1729/system_process I/ProcessStatsService: Prepared write state in 10ms
+05-01 23:55:00.008 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:56:00.008 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
+05-01 23:57:00.008 2347-2347/com.google.android.googlequicksearchbox:search I/MemoryTrimmer: Trimming objects from memory, since app is in the background.
